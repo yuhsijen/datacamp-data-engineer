@@ -20,8 +20,8 @@ Welcome to my learning journey! This repository tracks my progress through DataC
 | 02         | Introduction to Python for Developers     | ✅ Completed   | 2025-05-23      |
 | 03         | Intermediate Python for Developers        | ✅ Completed   | 2025-05-24      |
 | prereq01   | Introduction to Python                    | ✅ Completed   | 2025-05-25      |
-| prereq02   | Intermediate Python                       | ⏳ In Progress | -               |
-| 04         | Introduction to Importing Data in Python  | 🔜 Planned     | -               |
+| prereq02   | Intermediate Python                       | ✅ Completed   | 2025-05-31      |
+| 04         | Introduction to Importing Data in Python  | ⏳ In Progress | -               |
 | 05         | Intermediate Importing Data in Python     | 🔜 Planned     | -               |
 | 06         | Introduction to APIs in Python            | 🔜 Planned     | -               |
 | prereq03   | Introduction to Functions in Pandas       | 🔜 Planned     | -               |
